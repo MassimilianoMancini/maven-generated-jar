@@ -1,0 +1,1 @@
+Example of generating a jar complete with manifest with maven
